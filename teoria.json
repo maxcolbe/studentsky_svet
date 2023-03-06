@@ -1,0 +1,53 @@
+{
+  "Slovenský Jazyk": {
+    "SJL_Literatura": {
+      "Literarne Obdobia": {
+        "obsah": "coming soon"
+      },
+      "Literarne Druhy": {
+        "obsah": "coming soon"
+      }
+    },
+    "SJL_Gramatika": {
+      "Slovne Druhy": {
+        "obsah": "coming soon"
+      },
+      "Pravopis": {
+        "obsah": "coming soon"
+      }
+    }
+  },
+  "Anglický Jazyk": {
+    "ANJ_Vocabulary": {
+      "Idioms": {
+        "obsah": "coming soon"
+      },
+      "Food": {
+        "obsah": "coming soon"
+      },
+      "Family": {
+        "obsah": "coming soon"
+      }
+    },
+    "ANJ_Tvorenie_Slov": {
+      "Antonymá (opozitá)": {
+        "obsah": "coming soon"
+      },
+      "Negácie": {
+        "obsah": "coming soon"
+      }
+    }
+  },
+  "Matematika": {
+    "Rímske čísla": {
+      "Rímske čísla": {
+        "obsah": "coming soon"
+      }
+    },
+    "Štatistika": {
+      "Štatistika": {
+        "obsah": "coming soon"
+      }
+    }
+  }
+}

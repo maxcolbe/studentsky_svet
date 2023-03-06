@@ -1,0 +1,1974 @@
+{
+  "Slovenský Jazyk": {
+    "SJL_Literatura": {
+      "Literarne Obdobia": [
+        {
+          "questionText": "Aké je vlastné meno autora Ivana Kraska?",
+          "answers": [
+            {
+              "label": "Samo Chalupka",
+              "value": 0
+            },
+            {
+              "label": "Richard Botto",
+              "value": 0
+            },
+            {
+              "label": "Ján Botto",
+              "value": 1
+            },
+            {
+              "label": "Ján Chalupka",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Autorom diela „Robinson Crusoe“ je:",  
+          "answers": [
+            {
+              "label": "Daniel Defoe",
+              "value": 1
+            },
+            {
+              "label": "Charles Dickens",
+              "value": 0
+            },
+            {
+              "label": "Jonathan Swift",
+              "value": 0
+            },
+            {
+              "label": "Oscar Wilde",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Autorom diela \"Georgica\" je:",
+          "answers": [
+            {
+              "label": "Ovídius",
+              "value": 0
+            },
+            {
+              "label": "Sofokles",
+              "value": 0
+            },
+            {
+              "label": "Cicero",
+              "value": 0
+            },
+            {
+              "label": "Vergílius",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Osvietenstvo vystupovalo proti:",
+          "answers": [
+            {
+              "label": "teokracii",
+              "value": 0
+            },
+            {
+              "label": "absolutizmu",
+              "value": 1
+            },
+            {
+              "label": "konštitúcii",
+              "value": 0
+            },
+            {
+              "label": "demokracii",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Autorom lyricko-epickej skladby „Detvan“ je:",
+          "answers": [
+            {
+              "label": "Andrej Sládkovič",
+              "value": 1
+            },
+            {
+              "label": "Ľudovít Štúr",
+              "value": 0
+            },
+            {
+              "label": "Samo Chalupka",
+              "value": 0
+            },
+            {
+              "label": "Jan Botto",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Dielo „Valaská škola mravúv stodola“ je zbierkou:",
+          "answers": [
+            {
+              "label": "poviedok",
+              "value": 0
+            },
+            {
+              "label": "porekadiel",
+              "value": 0
+            },
+            {
+              "label": "anekdot",
+              "value": 0
+            },
+            {
+              "label": "básní",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Slovenskú humanistickú a renesančnú literatúru datujeme do obdobia rokov:",
+          "answers": [
+            {
+              "label": "1350 – 1500",
+              "value": 0
+            },
+            {
+              "label": "1500 – 1650",
+              "value": 1
+            },
+            {
+              "label": "1730 – 1800",
+              "value": 0
+            },
+            {
+              "label": "1650 – 1730",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Ktoré z diel P.O. Hviezdoslava zaraďujeme do prírodnej lyriky?",
+          "answers": [
+            {
+              "label": "Hájnikova žena, Letorosty",
+              "value": 0
+            },
+            {
+              "label": "Krvavé sonety, Stezky",
+              "value": 0
+            },
+            {
+              "label": "Prechádky jarom, Prechádzky letom",
+              "value": 1
+            },
+            {
+              "label": "Letorosty, Dozvuky",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "William Shakespeare nepísal:",
+          "answers": [
+            {
+              "label": "tragédie",
+              "value": 0
+            },
+            {
+              "label": "novely",
+              "value": 1
+            },
+            {
+              "label": "komédie",
+              "value": 0
+            },
+            {
+              "label": "historické hry",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Do akého literárneho obdobia patril Romain Rolland?",
+          "answers": [
+            {
+              "label": "nemecká medzivojnová literatúra",
+              "value": 0
+            },
+            {
+              "label": "americká medzivojnová literatúra",
+              "value": 0
+            },
+            {
+              "label": "anglická medzivojnová literatúra",
+              "value": 0
+            },
+            {
+              "label": "francúzska medzivojnová literatúra",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "Literarne Druhy": [
+        {
+          "questionText": "Epos - charakteristika:",
+          "answers": [
+            {
+              "label": "rozsiahle chronologické rozprávanie",
+              "value": 1
+            },
+            {
+              "label": "kratší prozaický útvar",
+              "value": 0
+            },
+            {
+              "label": "náboženská pieseň",
+              "value": 0
+            },
+            {
+              "label": "polytematická báseň väčšieho rozsahu",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Príbehy o vzniku sveta a človeka:",
+          "answers": [
+            {
+              "label": "povesť",
+              "value": 0
+            },
+            {
+              "label": "epos",
+              "value": 0
+            },
+            {
+              "label": "legenda",
+              "value": 0
+            },
+            {
+              "label": "báj",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Román-rieka – charakteristika:",
+          "answers": [
+            {
+              "label": "hlavnou postavou je zviera",
+              "value": 0
+            },
+            {
+              "label": "má viacero dejových línii",
+              "value": 1
+            },
+            {
+              "label": "hlavnú postavu tvorí viacero ľudí",
+              "value": 0
+            },
+            {
+              "label": "hlavnou postavou matka príroda",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Žáner strednej epiky:",
+          "answers": [
+            {
+              "label": "román",
+              "value": 0
+            },
+            {
+              "label": "novela",
+              "value": 1
+            },
+            {
+              "label": "fejtón",
+              "value": 0
+            },
+            {
+              "label": "poviedka",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Próza je:",
+          "answers": [
+            {
+              "label": "literárny žáner",
+              "value": 0
+            },
+            {
+              "label": "literárna forma",
+              "value": 1
+            },
+            {
+              "label": "literárny druh",
+              "value": 0
+            },
+            {
+              "label": "literárna hra",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Román - charakteristika:",
+          "answers": [
+            {
+              "label": "kratší prozaický útvar",
+              "value": 0
+            },
+            {
+              "label": "polytematická báseň väčšieho rozsahu",
+              "value": 0
+            },
+            {
+              "label": "žáner malej epiky",
+              "value": 0
+            },
+            {
+              "label": "žáner veľkej epiky",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Anekdota - charakteristika:",
+          "answers": [
+            {
+              "label": "tragická smutná báseň",
+              "value": 0
+            },
+            {
+              "label": "oslavná radostná pieseň",
+              "value": 0
+            },
+            {
+              "label": "krátky a vtipný príbeh o skutočnej alebo vymyslenej udalosti",
+              "value": 1
+            },
+            {
+              "label": "hra s veselým obsahom",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Elégia - charakteristika:",
+          "answers": [
+            {
+              "label": "tragická smutná pieseň",
+              "value": 0
+            },
+            {
+              "label": "tragická smutná báseň",
+              "value": 1
+            },
+            {
+              "label": "oslavná radostná pieseň",
+              "value": 0
+            },
+            {
+              "label": "oslavná radostná báseň",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Aliterácia – charakteristika:",
+          "answers": [
+            {
+              "label": "opakovanie rovnakého slova (skupiny slov) na konci veršov",
+              "value": 0
+            },
+            {
+              "label": "opakovanie toho istého slova za sebou",
+              "value": 0
+            },
+            {
+              "label": "opakovanie rovnakých alebo zvukovo-podobných hlások",
+              "value": 1
+            },
+            {
+              "label": "spojenie dvoch protichodných slov",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Ako sa zmenilo usporiadanie štátov po 1. sv. vojne?",
+          "answers": [
+            {
+              "label": "rozpad Sovietského zväzu",
+              "value": 0
+            },
+            {
+              "label": "vytvorenie prvého samostatného Slovenského štátu",
+              "value": 0
+            },
+            {
+              "label": "rozpad Československa",
+              "value": 0
+            },
+            {
+              "label": "rozpad Rakúsko-Uhorska",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    "SJL_Gramatika": {
+      "Slovne Druhy": [
+        {
+          "questionText": "Spomedzi uvedených podstatných mien vyberte pomnožné podstatné meno:",
+          "answers": [
+            {
+              "label": "vrecia",
+              "value": 0
+            },
+            {
+              "label": "nohavice",
+              "value": 1
+            },
+            {
+              "label": "deti",
+              "value": 0
+            },
+            {
+              "label": "schody",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "V akom spôsobe je sloveso \"dajte\"?",
+          "answers": [
+            {
+              "label": "v opytovacom",
+              "value": 0
+            },
+            {
+              "label": "v rozkazovacom",
+              "value": 1
+            },
+            {
+              "label": "v podmieňovacom",
+              "value": 0
+            },
+            {
+              "label": "v oznamovacom",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Vyberte sloveso, ktoré nie je v prítomnom čase:",
+          "answers": [
+            {
+              "label": "nepočúvate",
+              "value": 0
+            },
+            {
+              "label": "zaúčaš sa",
+              "value": 0
+            },
+            {
+              "label": "chceme rátať",
+              "value": 0
+            },
+            {
+              "label": "mohol si",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Vyberte sloveso, ktoré je v činnom rode:",
+          "answers": [
+            {
+              "label": "nesmú kosiť",
+              "value": 1
+            },
+            {
+              "label": "nebudú zabití",
+              "value": 0
+            },
+            {
+              "label": "sa uvedie",
+              "value": 0
+            },
+            {
+              "label": "bolo okorenené",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Vyberte abstraktné podstatné meno:",
+          "answers": [
+            {
+              "label": "kameň",
+              "value": 0
+            },
+            {
+              "label": "vajce",
+              "value": 0
+            },
+            {
+              "label": "láska",
+              "value": 1
+            },
+            {
+              "label": "ocot",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Do akého slovného druhu zaraďujeme slovo \"ver\"?",
+          "answers": [
+            {
+              "label": "sloveso",
+              "value": 1
+            },
+            {
+              "label": "spojka",
+              "value": 0
+            },
+            {
+              "label": "častica",
+              "value": 0
+            },
+            {
+              "label": "podstatné meno",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Vyberte podstatné meno, ktoré nie je ženského rodu:",
+          "answers": [
+            {
+              "label": "dievky",
+              "value": 0
+            },
+            {
+              "label": "buriny",
+              "value": 0
+            },
+            {
+              "label": "tvárnice",
+              "value": 0
+            },
+            {
+              "label": "klásky",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Sloveso \"chceli\" je v:",
+          "answers": [
+            {
+              "label": "1. osobe",
+              "value": 0
+            },
+            {
+              "label": "2. osobe",
+              "value": 0
+            },
+            {
+              "label": "3. osobe",
+              "value": 1
+            },
+            {
+              "label": "4. osobe",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Vyberte sloveso, ktoré nie je v 1. osobe:",
+          "answers": [
+            {
+              "label": "tvorím",
+              "value": 0
+            },
+            {
+              "label": "vidíte",
+              "value": 1
+            },
+            {
+              "label": "trpím",
+              "value": 0
+            },
+            {
+              "label": "čítame",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Ktoré sloveso má nedokonavý vid?",
+          "answers": [
+            {
+              "label": "napísať",
+              "value": 0
+            },
+            {
+              "label": "poslať",
+              "value": 0
+            },
+            {
+              "label": "prečítať",
+              "value": 0
+            },
+            {
+              "label": "skákať",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "Pravopis": [
+        {
+          "questionText": "Vyberte možnosť s chybami:",
+          "answers": [
+            {
+              "label": "ringlota, kapitál",
+              "value": 0
+            },
+            {
+              "label": "pyvot, pixel",
+              "value": 1
+            },
+            {
+              "label": "pipeta, pyramída",
+              "value": 0
+            },
+            {
+              "label": "pikantný, piknik",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: Pomal_ v_s_chal_:",
+          "answers": [
+            {
+              "label": "Pomaly vysychaly",
+              "value": 0
+            },
+            {
+              "label": "Pomaly vysichali",
+              "value": 0
+            },
+            {
+              "label": "Pomaly vysychali",
+              "value": 1
+            },
+            {
+              "label": "Pomaly vysichaly",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: V_ťaz_ si v_d_chl_:",
+          "answers": [
+            {
+              "label": "Víťazi si vydýchli",
+              "value": 1
+            },
+            {
+              "label": "Víťazi si vydýchly",
+              "value": 0
+            },
+            {
+              "label": "Víťazy si vydýchli",
+              "value": 0
+            },
+            {
+              "label": "Víťazy si vydýchly",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: M_nul_ všetko ob_lie:",
+          "answers": [
+            {
+              "label": "Minuli všetko obylie",
+              "value": 0
+            },
+            {
+              "label": "Mynuli všetko obylie",
+              "value": 0
+            },
+            {
+              "label": "Mynuli všetko obilie",
+              "value": 0
+            },
+            {
+              "label": "Minuli všetko obilie",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: Hus_ zas_pel_:",
+          "answers": [
+            {
+              "label": "Husi zasypeli",
+              "value": 0
+            },
+            {
+              "label": "Husy zasipeli",
+              "value": 0
+            },
+            {
+              "label": "Husy zasypeli",
+              "value": 0
+            },
+            {
+              "label": "Husi zasipeli",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: R_b_čky sa m_hal_:",
+          "answers": [
+            {
+              "label": "Ribičky sa mihali",
+              "value": 0
+            },
+            {
+              "label": "Rybyčky sa mihali",
+              "value": 0
+            },
+            {
+              "label": "Ribyčky sa mihali",
+              "value": 0
+            },
+            {
+              "label": "Rybičky sa mihali",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: Oh_zdná str_ga:",
+          "answers": [
+            {
+              "label": "Ohyzdná striga",
+              "value": 1
+            },
+            {
+              "label": "Ohyzdná stryga",
+              "value": 0
+            },
+            {
+              "label": "Ohizdná stryga",
+              "value": 0
+            },
+            {
+              "label": "Ohizdná striga",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: V_kend upl_nul:",
+          "answers": [
+            {
+              "label": "Víkend uplinul",
+              "value": 0
+            },
+            {
+              "label": "Výkend uplynul",
+              "value": 0
+            },
+            {
+              "label": "Víkend uplynul",
+              "value": 1
+            },
+            {
+              "label": "Výkend uplinul",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Doplňte chýbajúce písmená: Zb_str_l pozornosť:",
+          "answers": [
+            {
+              "label": "Zbystril pozornosť",
+              "value": 1
+            },
+            {
+              "label": "Zbystryl pozornosť",
+              "value": 0
+            },
+            {
+              "label": "Zbistril pozornosť",
+              "value": 0
+            },
+            {
+              "label": "Zbistryl pozornosť",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Vyberte možnosť s chybami:",
+          "answers": [
+            {
+              "label": "diplom, pigment, piktogram",
+              "value": 0
+            },
+            {
+              "label": "digestor, pilulka, nit",
+              "value": 0
+            },
+            {
+              "label": "dikobraz, pylier, nylon",
+              "value": 1
+            },
+            {
+              "label": "diktát, pirát, kapilára",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Anglický Jazyk": {
+    "ANJ_Vocabulary": {
+      "Idioms": [
+        {
+          "questionText": "Cut off:",
+          "answers": [
+            {
+              "label": "odrezať",
+              "value": 1
+            },
+            {
+              "label": "vystrieľať",
+              "value": 0
+            },
+            {
+              "label": "skrátiť",
+              "value": 0
+            },
+            {
+              "label": "obísť",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Look out:",
+          "answers": [
+            {
+              "label": "starať sa",
+              "value": 0
+            },
+            {
+              "label": "hľadať",
+              "value": 0
+            },
+            {
+              "label": "dávať pozor",
+              "value": 1
+            },
+            {
+              "label": "rozhliadať sa",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Zoom in:",
+          "answers": [
+            {
+              "label": "zaostriť",
+              "value": 1
+            },
+            {
+              "label": "vložiť",
+              "value": 0
+            },
+            {
+              "label": "zaobstarať",
+              "value": 0
+            },
+            {
+              "label": "pridať",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Smash up:",
+          "answers": [
+            {
+              "label": "rozbiť",
+              "value": 1
+            },
+            {
+              "label": "vyvrieť",
+              "value": 0
+            },
+            {
+              "label": "vytiahnuť",
+              "value": 0
+            },
+            {
+              "label": "pretiecť",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Put on:",
+          "answers": [
+            {
+              "label": "obliecť/obuť",
+              "value": 1
+            },
+            {
+              "label": "položiť",
+              "value": 0
+            },
+            {
+              "label": "odložiť",
+              "value": 0
+            },
+            {
+              "label": "upratať",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Wash up:",
+          "answers": [
+            {
+              "label": "čistiť",
+              "value": 0
+            },
+            {
+              "label": "umývať",
+              "value": 1
+            },
+            {
+              "label": "vysávať",
+              "value": 0
+            },
+            {
+              "label": "upratovať",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Take on neznamená:",
+          "answers": [
+            {
+              "label": "pribrať",
+              "value": 0
+            },
+            {
+              "label": "prijať",
+              "value": 0
+            },
+            {
+              "label": "mať úspech",
+              "value": 0
+            },
+            {
+              "label": "risknúť",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Dress down:",
+          "answers": [
+            {
+              "label": "obliecť sa skromne",
+              "value": 1
+            },
+            {
+              "label": "vyzuť sa",
+              "value": 0
+            },
+            {
+              "label": "obliecť sa slávnostne",
+              "value": 0
+            },
+            {
+              "label": "vyzliecť sa",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Get away:",
+          "answers": [
+            {
+              "label": "nasledovať",
+              "value": 0
+            },
+            {
+              "label": "dať bokom",
+              "value": 0
+            },
+            {
+              "label": "utiecť",
+              "value": 1
+            },
+            {
+              "label": "hľadať",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Fix up:",
+          "answers": [
+            {
+              "label": "zapísať",
+              "value": 0
+            },
+            {
+              "label": "zalepiť",
+              "value": 0
+            },
+            {
+              "label": "napraviť",
+              "value": 1
+            },
+            {
+              "label": "skúsiť",
+              "value": 0
+            }
+          ]
+        }
+      ],
+      "Food": [
+        {
+          "questionText": "Bacon po slovensky:",
+          "answers": [
+            {
+              "label": "párok",
+              "value": 0
+            },
+            {
+              "label": "špekačka",
+              "value": 0
+            },
+            {
+              "label": "klobása",
+              "value": 0
+            },
+            {
+              "label": "slanina",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Kapusta:",
+          "answers": [
+            {
+              "label": "cauliflower",
+              "value": 0
+            },
+            {
+              "label": "cabbage",
+              "value": 1
+            },
+            {
+              "label": "capet",
+              "value": 0
+            },
+            {
+              "label": "carrot",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Mak:",
+          "answers": [
+            {
+              "label": "horseradish",
+              "value": 0
+            },
+            {
+              "label": "black pepper",
+              "value": 0
+            },
+            {
+              "label": "poppy",
+              "value": 1
+            },
+            {
+              "label": "garlic",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Porridge po slovensky:",
+          "answers": [
+            {
+              "label": "ovsená kaša",
+              "value": 1
+            },
+            {
+              "label": "zemiaková kaša",
+              "value": 0
+            },
+            {
+              "label": "tatarská omáčka",
+              "value": 0
+            },
+            {
+              "label": "zeleninová omáčkaz",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Soup po slovensky:",
+          "answers": [
+            {
+              "label": "omáčka",
+              "value": 0
+            },
+            {
+              "label": "príloha",
+              "value": 0
+            },
+            {
+              "label": "poleva",
+              "value": 0
+            },
+            {
+              "label": "polievka",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Žuvačka:",
+          "answers": [
+            {
+              "label": "eating gum",
+              "value": 0
+            },
+            {
+              "label": "chewing gum",
+              "value": 1
+            },
+            {
+              "label": "yumming gum",
+              "value": 0
+            },
+            {
+              "label": "chewing yum",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Mushroom po slovensky:",
+          "answers": [
+            {
+              "label": "hríb",
+              "value": 1
+            },
+            {
+              "label": "kaleráb",
+              "value": 0
+            },
+            {
+              "label": "mušľa",
+              "value": 0
+            },
+            {
+              "label": "karfiol",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Džús:",
+          "answers": [
+            {
+              "label": "jeuc",
+              "value": 0
+            },
+            {
+              "label": "jeus",
+              "value": 0
+            },
+            {
+              "label": "juice",
+              "value": 1
+            },
+            {
+              "label": "juic",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Beverage po slovensky:",
+          "answers": [
+            {
+              "label": "kofeínový nápoj",
+              "value": 0
+            },
+            {
+              "label": "nápoj",
+              "value": 1
+            },
+            {
+              "label": "tvrdý alkohol",
+              "value": 0
+            },
+            {
+              "label": "alkoholický nápoj",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Cukríky:",
+          "answers": [
+            {
+              "label": "sweets, chewings",
+              "value": 0
+            },
+            {
+              "label": "candies, chewings",
+              "value": 0
+            },
+            {
+              "label": "chewings, sweets",
+              "value": 0
+            },
+            {
+              "label": "sweets, candies",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "Family": [
+        {
+          "questionText": "Synovec:",
+          "answers": [
+            {
+              "label": "nephew",
+              "value": 1
+            },
+            {
+              "label": "grandson",
+              "value": 0
+            },
+            {
+              "label": "niece",
+              "value": 0
+            },
+            {
+              "label": "nehew",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Sesternica",
+          "answers": [
+            {
+              "label": "uncle",
+              "value": 0
+            },
+            {
+              "label": "cousin",
+              "value": 1
+            },
+            {
+              "label": "nephew",
+              "value": 0
+            },
+            {
+              "label": "ancle",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Nevlastný brat:",
+          "answers": [
+            {
+              "label": "stepbrother",
+              "value": 1
+            },
+            {
+              "label": "foreignbrother",
+              "value": 0
+            },
+            {
+              "label": "anotherbrother",
+              "value": 0
+            },
+            {
+              "label": "secondbrother",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Godmother po slovensky:",
+          "answers": [
+            {
+              "label": "mama",
+              "value": 0
+            },
+            {
+              "label": "babka",
+              "value": 0
+            },
+            {
+              "label": "krstná mama",
+              "value": 1
+            },
+            {
+              "label": "nevlastná mama",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Mama:",
+          "answers": [
+            {
+              "label": "muther",
+              "value": 0
+            },
+            {
+              "label": "mother",
+              "value": 1
+            },
+            {
+              "label": "murther",
+              "value": 0
+            },
+            {
+              "label": "mather",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Father in law po slovensky:",
+          "answers": [
+            {
+              "label": "svokor",
+              "value": 1
+            },
+            {
+              "label": "nevlastný otec",
+              "value": 0
+            },
+            {
+              "label": "manžel",
+              "value": 0
+            },
+            {
+              "label": "krstný otec",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Dedko:",
+          "answers": [
+            {
+              "label": "grandmum",
+              "value": 0
+            },
+            {
+              "label": "old dad",
+              "value": 0
+            },
+            {
+              "label": "granddad",
+              "value": 0
+            },
+            {
+              "label": "grandfather",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Vdovec:",
+          "answers": [
+            {
+              "label": "orphan",
+              "value": 0
+            },
+            {
+              "label": "widower",
+              "value": 1
+            },
+            {
+              "label": "widow",
+              "value": 0
+            },
+            {
+              "label": "descendant",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Mamička:",
+          "answers": [
+            {
+              "label": "grandmum",
+              "value": 0
+            },
+            {
+              "label": "mum",
+              "value": 1
+            },
+            {
+              "label": "daughter",
+              "value": 0
+            },
+            {
+              "label": "grandma",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Stepfather po slovensky:",
+          "answers": [
+            {
+              "label": "dedko",
+              "value": 0
+            },
+            {
+              "label": "krstný otec",
+              "value": 0
+            },
+            {
+              "label": "nevlastný otec",
+              "value": 1
+            },
+            {
+              "label": "otec",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    "ANJ_Tvorenie_Slov": {
+      "Antonymá (opozitá)": [
+        {
+          "questionText": "War:",
+          "answers": [
+            {
+              "label": "power",
+              "value": 0
+            },
+            {
+              "label": "peace",
+              "value": 1
+            },
+            {
+              "label": "silence",
+              "value": 0
+            },
+            {
+              "label": "plenty",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Unity:",
+          "answers": [
+            {
+              "label": "transition",
+              "value": 0
+            },
+            {
+              "label": "conclusion",
+              "value": 0
+            },
+            {
+              "label": "division",
+              "value": 1
+            },
+            {
+              "label": "demolition",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "South:",
+          "answers": [
+            {
+              "label": "north",
+              "value": 1
+            },
+            {
+              "label": "year",
+              "value": 0
+            },
+            {
+              "label": "west",
+              "value": 0
+            },
+            {
+              "label": "day",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Visitor:",
+          "answers": [
+            {
+              "label": "owner",
+              "value": 0
+            },
+            {
+              "label": "guest",
+              "value": 0
+            },
+            {
+              "label": "host",
+              "value": 1
+            },
+            {
+              "label": "warden",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Poverty:",
+          "answers": [
+            {
+              "label": "power",
+              "value": 0
+            },
+            {
+              "label": "wealth",
+              "value": 1
+            },
+            {
+              "label": "stardom",
+              "value": 0
+            },
+            {
+              "label": "credibility",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Never:",
+          "answers": [
+            {
+              "label": "always",
+              "value": 1
+            },
+            {
+              "label": "none",
+              "value": 0
+            },
+            {
+              "label": "nothing",
+              "value": 0
+            },
+            {
+              "label": "already",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Best:",
+          "answers": [
+            {
+              "label": "better",
+              "value": 0
+            },
+            {
+              "label": "worse",
+              "value": 0
+            },
+            {
+              "label": "bad",
+              "value": 0
+            },
+            {
+              "label": "worst",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Reply:",
+          "answers": [
+            {
+              "label": "answer",
+              "value": 0
+            },
+            {
+              "label": "task",
+              "value": 0
+            },
+            {
+              "label": "question",
+              "value": 1
+            },
+            {
+              "label": "letter",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Narrow:",
+          "answers": [
+            {
+              "label": "broad",
+              "value": 1
+            },
+            {
+              "label": "high",
+              "value": 0
+            },
+            {
+              "label": "low",
+              "value": 0
+            },
+            {
+              "label": "straight",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Ending:",
+          "answers": [
+            {
+              "label": "cleaning",
+              "value": 0
+            },
+            {
+              "label": "defending",
+              "value": 0
+            },
+            {
+              "label": "beginning",
+              "value": 1
+            },
+            {
+              "label": "finishing",
+              "value": 0
+            }
+          ]
+        }
+      ],
+      "Negácie": [
+        {
+          "questionText": "Material:",
+          "answers": [
+            {
+              "label": "dismaterial",
+              "value": 0
+            },
+            {
+              "label": "immaterial",
+              "value": 0
+            },
+            {
+              "label": "nonmaterial",
+              "value": 1
+            },
+            {
+              "label": "unmaterial",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Relevant:",
+          "answers": [
+            {
+              "label": "disrelevant",
+              "value": 0
+            },
+            {
+              "label": "irrelevant",
+              "value": 1
+            },
+            {
+              "label": "arelevant",
+              "value": 0
+            },
+            {
+              "label": "nonrelevant",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Desirable:",
+          "answers": [
+            {
+              "label": "disdesirable",
+              "value": 0
+            },
+            {
+              "label": "nondesirable",
+              "value": 0
+            },
+            {
+              "label": "adesirable",
+              "value": 0
+            },
+            {
+              "label": "undesirable",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Authorized:",
+          "answers": [
+            {
+              "label": "unauthorized",
+              "value": 1
+            },
+            {
+              "label": "disauthorized",
+              "value": 0
+            },
+            {
+              "label": "nonauthorized",
+              "value": 0
+            },
+            {
+              "label": "inauthorized",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Distinguished:",
+          "answers": [
+            {
+              "label": "undistinguished",
+              "value": 1
+            },
+            {
+              "label": "indistinguished",
+              "value": 0
+            },
+            {
+              "label": "nondistinguished",
+              "value": 0
+            },
+            {
+              "label": "adistinguished",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Dress:",
+          "answers": [
+            {
+              "label": "undress",
+              "value": 1
+            },
+            {
+              "label": "nondress",
+              "value": 0
+            },
+            {
+              "label": "disdress",
+              "value": 0
+            },
+            {
+              "label": "indress",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Belief:",
+          "answers": [
+            {
+              "label": "nonbelief",
+              "value": 0
+            },
+            {
+              "label": "unbelief",
+              "value": 0
+            },
+            {
+              "label": "abelief",
+              "value": 0
+            },
+            {
+              "label": "disbelief",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "questionText": "Reverent:",
+          "answers": [
+            {
+              "label": "unreverent",
+              "value": 0
+            },
+            {
+              "label": "irreverent",
+              "value": 1
+            },
+            {
+              "label": "areverent",
+              "value": 0
+            },
+            {
+              "label": "nonreverent",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Grateful:",
+          "answers": [
+            {
+              "label": "disgrateful",
+              "value": 0
+            },
+            {
+              "label": "agrateful",
+              "value": 0
+            },
+            {
+              "label": "ungrateful",
+              "value": 1
+            },
+            {
+              "label": "nongrateful",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "questionText": "Popular:",
+          "answers": [
+            {
+              "label": "unpopular",
+              "value": 1
+            },
+            {
+              "label": "impopular",
+              "value": 0
+            },
+            {
+              "label": "apopular",
+              "value": 0
+            },
+            {
+              "label": "nonpopular",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Matematika": {
+    "Rímske čísla": {
+      "Rímske čísla": [
+        {
+          "questionText": "Číslo 999 je v rímskej sústave:",
+          "answers": [
+            {
+              "label": "IM",
+              "value": 0
+            },
+            {
+              "label": "CMXCIX",
+              "value": 1
+            },
+            {
+              "label": "CMXCCIX",
+              "value": 0
+            },
+            {
+              "label": "iné",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    "Štatistika": {
+      "Štatistika": [
+        {
+          "questionText": "Koľko percent prvkov má menšiu alebo rovnakú hodnotu ako horný kvartil?",
+          "answers": [
+            {
+              "label": "75",
+              "value": 1
+            },
+            {
+              "label": "50",
+              "value": 0
+            },
+            {
+              "label": "80",
+              "value": 0
+            },
+            {
+              "label": "40",
+              "value": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
