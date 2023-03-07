@@ -1,7 +1,7 @@
 {
   "Slovenský Jazyk": {
     "SJL_Literatura": {
-      "Literarne Obdobia": [
+      "Literárne Obdobia": [
         {
           "questionText": "Aké je vlastné meno autora Ivana Kraska?",
           "answers": [
@@ -213,7 +213,7 @@
           ]
         }
       ],
-      "Literarne Druhy": [
+      "Literárne Druhy": [
         {
           "questionText": "Epos - charakteristika:",
           "answers": [
@@ -427,7 +427,7 @@
       ]
     },
     "SJL_Gramatika": {
-      "Slovne Druhy": [
+      "Slovné Druhy": [
         {
           "questionText": "Spomedzi uvedených podstatných mien vyberte pomnožné podstatné meno:",
           "answers": [

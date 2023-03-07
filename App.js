@@ -367,7 +367,7 @@ const Topics_Screen = ({ navigation, route }) => {
             <Text
               style={{ fontSize: 30, fontWeight: "bold", color: "#000000" }}
             >
-              Literatura
+              Literatúra
             </Text>
             <Text
               style={{ fontSize: 15, fontWeight: "bold", color: "#808080" }}
